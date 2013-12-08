@@ -10,7 +10,7 @@ log-view:
   scroller-highlight-color: '#e28964'
 input-text:
   font-family: 'Lucida Grande'
-  font-size: 13.0
+  font-size: 14.0
   background-color: '#000'
   color: '#f0f0f0'  # very light grey
 member-list:
@@ -46,7 +46,7 @@ server-tree:
     active:
       color: '#fff'
     inactive:
-      color: '#3387bc'
+      color: '#f00'     #'#3387bc'
     background:
       top-line-color: '#4b4b4b'
       bottom-line-color: '#444444'
