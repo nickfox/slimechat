@@ -8,7 +8,11 @@ Put the two files on your desktop and open a terminal window and copy and paste 
 cp ~/Desktop/slimechat.* "/Users/nickfox/Library/Application Support/net.limechat.LimeChat-AppStore/Themes/"
 ```
 
-change __nickfox__ to __your username__.
+change __nickfox__ to __your username__. I also have a special timestamp that I like to use and you have to put this into limechat preferences under the theme tab. Check the box that says override timestamp format and add the following:
+
+```java
+%a %I:%M%p
+```
 
 Here is what it looks like.
 
