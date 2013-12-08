@@ -1,0 +1,54 @@
+# slimechat Theme based on Code7
+#
+# @author: Nick Fox
+# @description: Matrix like theme with black background and green text for limechat
+#
+
+log-view:
+  nickname-format: '%n: '
+  timestamp-format: '%a %I:%M%p'
+  scroller-highlight-color: '#e28964'
+input-text:
+  font-family: 'Lucida Grande'
+  font-size: 13.0
+  background-color: '#000'
+  color: '#f0f0f0'  # very light grey
+member-list:
+  font-family: 'Lucida Grande'
+  font-size: 12.0
+  color: '#3387bc' # darker blue
+  background-color: '#000'
+  operator:
+    color: '#3387bc'
+  selected:
+    color: '#fff'
+    background:
+      top-line-color: '#464646'  # dark grey
+      bottom-line-color: '#464646'
+      top-color: '#464646'
+      bottom-color: '#464646'
+server-tree:
+  font-family: 'Lucida Grande'
+  font-size: 13.0
+  background-color: '#000'
+  highlight:
+    color: '#e28964'
+  newtalk:
+    color: '#f00'
+  unread:
+    color: '#99cf50' # nice light lime green color
+  normal:
+    active:
+      color: '#ccc'
+    inactive:
+      color: '#666'
+  selected:
+    active:
+      color: '#fff'
+    inactive:
+      color: '#3387bc'
+    background:
+      top-line-color: '#4b4b4b'
+      bottom-line-color: '#444444'
+      top-color: '#5a5a5a'
+      bottom-color: '#464646'
