@@ -16,10 +16,10 @@ body {}
 .url { color: #0cc; }  /* nice blue */
 .address {}
 .highlight {
-  font-size: 160%;
+  font-size: 100%;
   font-weight: normal;
   padding: 0 3px;
-  color: #e28964;
+  color: #f00;
 }
 
 .line {}
